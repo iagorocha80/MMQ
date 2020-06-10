@@ -836,7 +836,7 @@ void comparacurvas(float* R2){
 }
 
 
-int menuMMQ(){
+int main(){
 	system ("cls");
 	float* X=ler_x();
 	float* Y=ler_y();
